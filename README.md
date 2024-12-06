@@ -1,6 +1,1 @@
-a[href='red'] {
-    color: red;
-    pointer-events: none;
-    cursor: default;
-    text-decoration: none;
-}
+![Kolorowy tekst](https://quickchart.io/qr?text=Hello%20World&dark=ff0000)
