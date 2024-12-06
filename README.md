@@ -1,5 +1,3 @@
+<h1>Hi, my name is <spam style="color: blue;">Piotr.</spam></h1>
+<h2>I'm the Unknown Developer.</h2>
 
-# Hi, my name is Piotr.
-## I'm the Unknown Developer.
-
-<img src="https://img.shields.io/badge/Know%20More-Click%20Here-blue?style=flat-square&logo=&logoColor=white" onclick="window.location.href='https://piotrkulisz.github.io'">
