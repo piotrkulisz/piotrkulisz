@@ -7,3 +7,7 @@
     </tr>
   </table>
 </a>
+
+|        |
+|--------|
+| [Kliknij tutaj](https://piotrkulisz.github.io) |
