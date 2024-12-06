@@ -1,1 +1,1 @@
-![Kolorowy tekst](https://quickchart.io/qr?text=Hello%20World&dark=ff0000)
+![Twój tekst](https://quickchart.io/chart?c={type:'text',text:'Twój%20tekst',color:'blue',fontSize:30})
